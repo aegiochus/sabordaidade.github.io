@@ -1,0 +1,227 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabordaidade.pt" resolutions="1x" timestamp="1512451250999">
+  <folder name="assets">
+    <file name="final-vìdeo-nc.mp4" crc="4098037185" seo="true" mt="1512315566000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="416441954" ref="index"/>
+    <file name="master_a-master.css" crc="36951947" ref="mitos:suplementos:nutrição:receitas:patologias-associadas:index:receita-1:quem-somos:registo:menopausa:dieta-mediterrânea"/>
+    <file name="mitos.css" crc="75235671" ref="mitos"/>
+    <file name="suplementos.css" crc="440636140" ref="suplementos"/>
+    <file name="nutri__o.css" crc="258821134" ref="nutrição"/>
+    <file name="receitas.css" crc="121487946" ref="receitas"/>
+    <file name="patologias-associadas.css" crc="519821442" ref="patologias-associadas"/>
+    <file name="iefonts_index.css" crc="478840417" ref="index"/>
+    <file name="receita-1.css" crc="233187056" ref="receita-1"/>
+    <file name="iefonts_mitos.css" crc="4085142730" ref="mitos"/>
+    <file name="iefonts_suplementos.css" crc="3882249949" ref="suplementos"/>
+    <file name="quem-somos.css" crc="118371964" ref="quem-somos"/>
+    <file name="iefonts_quem-somos.css" crc="3902311977" ref="quem-somos"/>
+    <file name="registo.css" crc="147650731" ref="registo"/>
+    <file name="iefonts_registo.css" crc="3892762482" ref="registo"/>
+    <file name="iefonts_receita-1.css" crc="4095186191" ref="receita-1"/>
+    <file name="menopausa.css" crc="485676213" ref="menopausa"/>
+    <file name="iefonts_menopausa.css" crc="4048329766" ref="menopausa"/>
+    <file name="dieta-mediterr_nea.css" crc="4135102442" ref="dieta-mediterrânea"/>
+    <file name="iefonts_dieta-mediterr_nea.css" crc="24435900" ref="dieta-mediterrânea"/>
+    <file name="iefonts_patologias-associadas.css" crc="3933525042" ref="patologias-associadas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="museutils.js" crc="3803043152" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="whatinput.js" crc="86476730" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="require.js" crc="4157109226" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="webpro.js" crc="242022427" ref="registo"/>
+    <file name="form_check.php" crc="147359589" ref="registo"/>
+    <file name="form_throttle.php" crc="93986428" ref="registo"/>
+    <file name="form_process.php" crc="3851993751" ref="registo"/>
+    <file name="form-u6212.php" crc="503206859" ref="registo"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u211.png" crc="3899265656" ref="index"/>
+    <file name="u211-r.png" crc="3899265656" ref="index"/>
+    <file name="pasted-svg-184145x118.svg" crc="3895192549" seo="true" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea">
+      <caption webpage="quepretendemos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receitas" alt=""/>
+      <caption webpage="quemsomos" alt=""/>
+      <caption webpage="controlo-de-peso" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="nutrição" alt=""/>
+      <caption webpage="registo" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+    <file name="pasted svg 184145x118_poster_.png" crc="4130947566" ref="index"/>
+    <file name="thumb-01.png" crc="390144836" seo="true" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea">
+      <caption webpage="quepretendemos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receitas" alt=""/>
+      <caption webpage="quemsomos" alt=""/>
+      <caption webpage="controlo-de-peso" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="nutrição" alt=""/>
+      <caption webpage="registo" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+    <file name="u380-4.png" crc="79378033" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea"/>
+    <file name="shutterstock_649360798_red-crop-u2564.jpg" crc="4061406772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-164x264.svg" crc="4116966523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 164x264_poster_.png" crc="16641755" ref="index"/>
+    <file name="thumb-02.png" crc="4293738426" seo="true" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea">
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="registo" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="nutrição" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receitas" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+    <file name="thumb-05.png" crc="31430249" seo="true" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea">
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="registo" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="nutrição" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receitas" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+    <file name="thumb-07.png" crc="4285482543" seo="true" ref="index:receitas:patologias-associadas:nutrição:mitos:suplementos:receita-1:menopausa:registo:quem-somos:dieta-mediterrânea">
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="registo" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="nutrição" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receitas" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+    <file name="pasted-svg-107116x18.svg" crc="4267531976" seo="true" ref="patologias-associadas:mitos:suplementos:receita-1:menopausa:dieta-mediterrânea">
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+    </file>
+    <file name="pasted svg 107116x18_poster_.png" crc="4113809412" ref="patologias-associadas"/>
+    <file name="artboard 4.png" crc="509570421" seo="true" ref="patologias-associadas:mitos:suplementos:receita-1:menopausa:dieta-mediterrânea">
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="dieta-mediterrânea" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="patologias-associadas" alt=""/>
+      <caption webpage="menopausa" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="mitos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+      <caption webpage="receita-1" alt=""/>
+    </file>
+    <file name="tabela veg-crop-u5371.png" crc="12902402" seo="true" ref="patologias-associadas">
+      <caption webpage="patologias-associadas" alt=""/>
+    </file>
+    <file name="untitled-6-02.png" crc="3799065373" seo="true" ref="patologias-associadas">
+      <caption webpage="patologias-associadas" alt=""/>
+    </file>
+    <file name="24550146_1495915487122717_931522908_n.png" crc="155464468" seo="true" ref="mitos">
+      <caption webpage="mitos" alt=""/>
+    </file>
+    <file name="artboard 4 copy.png" crc="438989559" seo="true" ref="suplementos">
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+      <caption webpage="suplementos" alt=""/>
+    </file>
+    <file name="pasted-svg-105x118.svg" crc="3822569819" seo="true" ref="receita-1">
+      <caption webpage="receita-1" alt=""/>
+    </file>
+    <file name="pasted svg 105x118_poster_.png" crc="3885982739" ref="receita-1"/>
+    <file name="screen shot 2017-12-03 at 193254-crop-u4988.jpg" crc="4061059515" seo="true" ref="receita-1">
+      <caption webpage="receita-1" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-03 at 194154.jpg" crc="515505005" seo="true" ref="receita-1">
+      <caption webpage="receita-1" alt=""/>
+    </file>
+    <file name="pasted-svg-59532x841.svg" crc="94823784" seo="true" ref="menopausa">
+      <caption webpage="menopausa" alt=""/>
+    </file>
+    <file name="pasted svg 59532x841_poster_.png" crc="186089528" ref="menopausa"/>
+    <file name="pasted-svg-41779x321.svg" crc="492191974" seo="true" ref="menopausa">
+      <caption webpage="menopausa" alt=""/>
+    </file>
+    <file name="pasted svg 41779x321_poster_.png" crc="3961892981" ref="menopausa"/>
+    <file name="screen shot 2017-12-03 at 164943.jpg" crc="4137077660" seo="true" ref="menopausa">
+      <caption webpage="menopausa" alt=""/>
+    </file>
+    <file name="untitled-7.png" crc="4210318852" seo="true" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="rodadaalimentacaomediterranica.png" crc="480789200" seo="true" ref="dieta-mediterrânea">
+      <caption webpage="dieta-mediterrânea" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4069489846" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="receitas.html" crc="4293308308" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="patologias-associadas.html" crc="45375228" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="nutrição.html" crc="3852130243" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="mitos.html" crc="396316732" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="suplementos.html" crc="125619987" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="receita-1.html" crc="535099162" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="menopausa.html" crc="4270132244" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="registo.html" crc="4138377164" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="quem-somos.html" crc="3879904231" seo="true" mt="1512451215436" redirect="true"/>
+  <file name="dieta-mediterrânea.html" crc="411558303" seo="true" mt="1512451215436" redirect="true"/>
+</manifest>
